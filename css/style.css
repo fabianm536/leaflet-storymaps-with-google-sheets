@@ -20,6 +20,7 @@ body {
   width: 100vw;
   height: calc(100vh - 203px);
   z-index: 80;
+  background-color: #e0e4fd;
 }
 
 #contents {
@@ -47,7 +48,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: #e0e4fd;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -117,6 +118,7 @@ h3 {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  background-color: white;
 }
 
 .in-focus {
